@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button {
+    background-color: light-gray;
+    color: black;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+#footer {
+    align-items: center;
+}
