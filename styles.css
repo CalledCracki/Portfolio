@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("minecraft.jpg") no-repeat center center fixed;
+    background: url("minecraft.jpg");
     background-size: cover;
     color: white;
     margin: 0;
