@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    background: url("minecraft.jpg") no-repeat center center fixed;
     color: white;
     margin: 0;
 }
