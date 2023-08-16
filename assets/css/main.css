@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.warning {
+	color: red;
+}
+
 .contentwork {
 	padding: 0 18px;
 	display: none;
